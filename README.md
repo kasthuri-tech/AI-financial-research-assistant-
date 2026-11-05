@@ -1,5 +1,7 @@
 # 📈 AI Financial Research Assistant
 
+📌 Note: Built during my data science program using a practice dataset. The end-to-end implementation, modeling, and application were independently developed.
+
 A beginner-friendly, Python-based Retrieval-Augmented Generation (RAG) project designed to run directly inside Google Colab and as a local web application. 
 
 This project showcases how to connect **Amazon Bedrock** (LLM and Embeddings) with **Amazon OpenSearch** (Vector Database) to build a semantic search assistant for analyzing financial datasets (PDFs and CSV spreadsheets).
